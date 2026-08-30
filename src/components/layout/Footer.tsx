@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { siteConfig, professionalData } from "@/config/site";
+import { siteConfig } from "@/config/site";
 import { professionalData as pData } from "@/config/data";
 import { Linkedin, Instagram, Twitter, Mail, MapPin } from "lucide-react";
 
